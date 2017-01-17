@@ -13,7 +13,7 @@ movieThree = media.Movie("Airplane",
                          "https://images-na.ssl-images-amazon.com/images/M/MV5BNDU2MjE4MTcwNl5BMl5BanBnXkFtZTgwNDExOTMxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
                          "https://youtu.be/HMnVs287AJ4")
 
-movieFour = media.Movie("Young Frankenstien",
+movieFour = media.Movie("Young Frankenstein",
                         "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1_UX182_CR0,0,182,268_AL_.jpg",
                         "https://youtu.be/7csc1O21jDU")
 
